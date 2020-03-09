@@ -18,13 +18,24 @@ body {
 .card {
     width: 500px;
     height: 350px;
-    background-color: rgb(226, 212, 212);
+    background-color: blanchedalmond;
+    transform-style: preserve-3d;
+    position:relative;
+    border-radius: inherit;
+    box-shadow:0 15px 60px rgba(0,0,0,0.3);
+
+}
+
+
+.caro{
+    width: 500px;
+    height: 350px;
+    background-color:yellowgreen;
     transform-style: preserve-3d;
     position:relative;
     border-radius: inherit;
     box-shadow:0 15px 60px rgba(0,0,0,0.3);
 }
-
 .card-front {
     display: flex;
     border-radius: inherit;
@@ -113,6 +124,7 @@ body {
 .b{
     font-weight: bold;
 }
+
 
 .container{
     display: flex;

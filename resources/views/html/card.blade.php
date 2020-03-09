@@ -14,6 +14,7 @@
      <div class="card1">
       <div class="card-wrapper ml-10">
          <div class="card">
+            <img src="/images/avatar.png" alt="Avatar" style="width: 30%" align="right">
          <div class="card-font">
          <div class="left">
            <h4 style="align-items: center;"><span>Digi</span>Card</h4>
@@ -56,7 +57,8 @@
          <!-- card1 ended -->
          <!-- <div class="card-wrapper"> -->
 <div class="card2">
-              <div class="card">
+         <div class="caro">
+            <img src="/images/avatar.png" alt="Avatar" style="width: 30%" align="right">
            <div class="card-font">
            <div class="left">
              <h4 style="align-items: center;"><span>Digi</span>Card</h4>
@@ -92,12 +94,8 @@
                        </div>
            </div>
            </div>
-           </div> 
            </div>
 </div>
     <!-- </div> -->
 </body>
 </html>
-
-
-
